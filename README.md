@@ -3,3 +3,10 @@ A Python web scraper using Selenium and Openpyxl that takes the top 10 current t
 
 # Info
 The new sheet will be named using the current date and time. Each tweet will have all information added to a new column.
+
+## Requirements.txt
+
+```
+selenium==3.141.0
+openpyxl==3.0.5
+```
