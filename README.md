@@ -1,4 +1,4 @@
-# Twitter_Trending_WebScraper
+# Twitter Trending WebScraper
 A Python web scraper using Selenium and Openpyxl that takes the top 10 current tweets and adds them to a new Excel spreadsheet.
 
 # Info
